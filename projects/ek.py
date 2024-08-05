@@ -56,7 +56,7 @@ def run():
 
         # Variables
         ek1_samplerate = 44100
-        ek1_samplesize_ms = 100
+        ek1_samplesize_ms = 500
         ek1_feature_type = 'yamn_spect'
         ek1_overlap_percentage = 75
 
